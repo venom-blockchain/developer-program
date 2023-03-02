@@ -12,9 +12,16 @@ Thank you for your interest in joining the Venom Foundation Developer Program. I
 
 Requirements:
 
-- The project should have a [badge](#badge) indicating that it is part of the Venom Foundation Developer Program.
-- The project should have relevant [tags](#common-tags) such as `venom-blockchain`, and `venom-developer-program`.
-- The project should have a clear and concise [README.md](#readmemd-template) file detailing the project and how to use it.
+1. Fork the Venom Foundation Developer Program repository.
+2. Create a new branch for your application: `git checkout -b ${YOUR_PROJECT_NAME}`.
+3. Copy the `applications/_template.md` template to a `${YOUR_PROJECT_NAME}.md` file and fill in the required information about your project.
+4. Save the filled-in `${YOUR_PROJECT_NAME}.md` file in the `applications` directory.
+5. Add a badge to your project's README.md indicating participation in the Venom Foundation Developer Program.
+6. Add relevant tags to your project, including `blockchain`, `venom-blockchain`, and `venom-developer-program`.
+7. Commit your changes and push them to your forked repository.
+8. Submit a pull request from your `${YOUR_PROJECT_NAME}` branch to the main branch of the Venom Foundation Developer Program repository.
+9. Wait for your application to be reviewed and approved by the Venom Foundation team.
+10. Once approved, your project will be added to the list of accepted applications in the Venom Foundation Developer Program README.md file.
 
 Please ensure that your repository meets these requirements before submitting it to the Venom Foundation Developer Program. We look forward to reviewing your project and potentially adding it to our program.
 
