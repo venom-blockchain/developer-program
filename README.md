@@ -37,33 +37,33 @@ Thank you for your contributions to the Venom ecosystem!
 
 ### Common Tags
 
-`venom-blockchain`, `venom-developer-program`
+`venom-blockchain` `venom-developer-program`
 
 ### Domain-specific tags:
 
 #### Nodes and Node Components
 
-`venom-node`, `venom-network`, `venom-crypto`, `venom-tvm`, `venom-validator`
+`venom-node` `venom-network` `venom-crypto` `venom-tvm` `venom-validator`
 
 #### Wallets
 
-`venom-wallet`, `venom-extension`, `venom-ledger`, `venom-mobile`
+`venom-wallet` `venom-extension` `venom-ledger` `venom-mobile`
 
 #### DeFi and Finance
 
-`venom-defi`, `venom-dex`, `venom-bridge`,`venom-swap`, `venom-finance`
+`venom-defi` `venom-dex` `venom-bridge` `venom-swap` `venom-finance`
 
 #### NFT and Gaming
 
-`venom-nft`, `venom-gaming`
+`venom-nft` `venom-gaming`
 
 #### Tools
 
-`venom-tools`, `venom-sdk`, `venom-smart-contracts`, `venom-testing`, `venom-security`
+`venom-tools` `venom-sdk` `venom-smart-contracts` `venom-testing` `venom-security`
 
 #### Indexing Engines and APIs
 
-`venom-indexer`, `venom-service`, `venom-api`
+`venom-indexer` `venom-service` `venom-api`
 
 #### Misc
 
