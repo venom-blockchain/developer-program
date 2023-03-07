@@ -17,7 +17,7 @@ Requirements:
 3. Copy the `applications/_template.md` template to a `${YOUR_PROJECT_NAME}.md` file and fill in the required information about your project.
 4. Save the filled-in `${YOUR_PROJECT_NAME}.md` file in the `applications` directory.
 5. Add a badge to your project's README.md indicating participation in the Venom Foundation Developer Program.
-6. Add relevant tags to your project, including `blockchain`, `venom-blockchain`, and `venom-developer-program`.
+6. Add relevant topics to your project, including `blockchain`, `venom-blockchain`, and `venom-developer-program`.
 7. Commit your changes and push them to your forked repository.
 8. Submit a pull request from your `${YOUR_PROJECT_NAME}` branch to the main branch of the Venom Foundation Developer Program repository.
 9. Wait for your application to be reviewed and approved by the Venom Foundation team.
@@ -35,11 +35,11 @@ Thank you for your contributions to the Venom ecosystem!
   </a>
 </p>
 
-### Common Tags
+### Common GitHub topics
 
 `venom-blockchain` `venom-developer-program`
 
-### Domain-specific tags:
+### Domain-specific GitHub topics:
 
 #### Nodes and Node Components
 
@@ -69,7 +69,7 @@ Thank you for your contributions to the Venom ecosystem!
 
 `venom-dao`
 
-If you want to add some additional tags to your repositories related to the Venom Foundation Developer Program, please feel free to propose to add it to this list
+If you want to add some additional topics to your repositories related to the Venom Foundation Developer Program, please feel free to propose to add it to this list
 
 ### README.md Template
 
