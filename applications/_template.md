@@ -1,8 +1,7 @@
 # Application for Venom Foundation Developer Program
 
 ## Contact Information
-- Name:
-- Email:
+
 - Github Profile Link:
 
 ## Project Information
